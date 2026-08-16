@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aquarium"
+           fetch="https://github.com/"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2" />
+
+  <!-- AquariumUI additions -->
+  <project path="vendor/lineage" name="AquariumUI/android_vendor_lineage" remote="aquarium" />
+
+</manifest>

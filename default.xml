@@ -1027,5 +1027,6 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk" />
   </project>
 
+  <include name="snippets/aquarium.xml" />
   <include name="snippets/lineage.xml" />
 </manifest>
