@@ -9,5 +9,9 @@
 
   <!-- AquariumUI additions -->
   <project path="vendor/lineage" name="AquariumUI/android_vendor_lineage" remote="aquarium" />
+  <project path="frameworks/base" name="AquariumUI/android_frameworks_base" remote="aquarium" />
+  <project path="packages/apps/Settings" name="AquariumUI/android_packages_apps_Settings" remote="aquarium" />
+  <project path="packages/apps/ThemePicker" name="AquariumUI/android_packages_apps_ThemePicker" remote="aquarium" />
+  <project path="packages/apps/SetupWizard" name="AquariumUI/android_packages_apps_SetupWizard" remote="aquarium" />
 
 </manifest>
